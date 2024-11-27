@@ -5,7 +5,7 @@ Ce projet implémente un système de résumé automatique de texte, avec une ana
 
 ## Fonctionnalités
 - Prétraitement des données textuelles
-- Résumé basé sur des modèles extractifs et abstraits
+- Résumé basé sur des modèles extractifs BERT et abstraits BART
 - Analyse des résultats avec des métriques standard
 - Notebooks pour visualiser les résultats
 
